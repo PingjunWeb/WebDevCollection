@@ -11,14 +11,11 @@ My personal web development collections
   - HTML5: Dynamic response
   - CSS3: Bootstrap/Foundation
   - Javascript: jQuery/Vue.js
-  -
   
 ### Server 
   - Language: Python
-  - Environment: Virtualenv 
+  - Environment: Virtualenv/Pip
   - Framework: Django
-  
-  
 
 ### Database
   - SQL: MySQL
@@ -31,7 +28,7 @@ My personal web development collections
   - Cloud: AWS
   
 ### Version Control
-  - Git
+  - Git/GitHub
   
 ### Testing
   - Unit testing
