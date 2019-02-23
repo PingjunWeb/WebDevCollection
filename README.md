@@ -14,11 +14,17 @@ My personal web development collections
   
 ### Server 
   - Language: Python
-  - Environment: Virtualenv/Pip
+  - Environment: Virtualenv/pip
   - Framework: Django
 
+### Testing
+  - Unit testing
+
+### To Choose:
+  - Template: Jinja2/Django Templates
+  
 ### Database
-  - SQL: MySQL
+  - SQL: PostgreSQL
   - NoSQL: MongoDB
   - In memory: Redis
 
@@ -29,16 +35,10 @@ My personal web development collections
   
 ### Version Control
   - Git/GitHub
-  
-### Testing
-  - Unit testing
-  
-### Code Quality
-  - Codacy
-  
+   
 ### Continuous Integration
   - CircleCI
   
-### To Choose:
-  - Template: Jinja2/Django Templates
-  
+### Code Quality
+  - Codacy  
+ 
