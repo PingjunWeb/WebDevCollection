@@ -4,12 +4,11 @@ What to Learn
 Learning Order
 ------------
   - Javascript (DOM/BOM/Ajax/json/Jquery)
-  - HTML5 + Vue.js + Bootstrap
+  - HTML5 + Bootstrap + Vue.js
   - Django (Templates/Tessting)
   - PostgreSQL + Redis
-  - Docker
   - Javascript Programming + NodeJS
- 
+  - Docker
 
 Project Order
 ------------
