@@ -5,7 +5,7 @@ My personal web development collections
   - Text editor: Vim
   - IDE: Atom
   - Shell: Bash
-  - Terminal: +Tmux
+  - Terminal: Tmux
 
 ### Client
   - HTML5: Dynamic response
@@ -16,17 +16,14 @@ My personal web development collections
   - Language: Python
   - Environment: Virtualenv/pip
   - Framework: Django
-
-### Testing
-  - Unit testing
-
-### To Choose:
-  - Template: Jinja2/Django Templates
   
 ### Database
   - SQL: PostgreSQL
   - NoSQL: MongoDB
   - In memory: Redis
+  
+### Testing
+  - Unit testing
 
 ### Web Server 
   - Web Server: Nginx
