@@ -16,6 +16,7 @@ My personal web development collections
   - Language: Python
   - Environment: Virtualenv/pip
   - Framework: Django
+  - WebAPI: django-rest-api
   
 ### Database
   - SQL: PostgreSQL
